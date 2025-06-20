@@ -1,0 +1,310 @@
+State,ProcedureCode,ProcedureName,Category,ReimbursementRate,AnnualUtilization
+CA,D0120,Periodic Oral Evaluation,Preventive,203.2,4272
+CA,D0120,Periodic Oral Evaluation,Preventive,157.28,966
+CA,D0120,Periodic Oral Evaluation,Preventive,42.99,3944
+CA,D0120,Periodic Oral Evaluation,Preventive,158.26,630
+CA,D0120,Periodic Oral Evaluation,Preventive,24.73,1269
+CA,D1110,Adult Prophylaxis (Cleaning),Preventive,68.84,1684
+CA,D1110,Adult Prophylaxis (Cleaning),Preventive,89.98,4617
+CA,D1110,Adult Prophylaxis (Cleaning),Preventive,21.63,3404
+CA,D1110,Adult Prophylaxis (Cleaning),Preventive,86.98,1582
+CA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,52.08,3247
+CA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,104.26,689
+CA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,40.84,3505
+CA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,65.92,1767
+CA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,156.26,3702
+CA,D0210,Complete X-rays (FMX),Diagnostic,159.74,3388
+CA,D0210,Complete X-rays (FMX),Diagnostic,34.96,2935
+CA,D0210,Complete X-rays (FMX),Diagnostic,236.71,2561
+CA,D2330,Anterior Composite Filling,Restorative,108.65,3112
+CA,D2330,Anterior Composite Filling,Restorative,73.11,1978
+CA,D2330,Anterior Composite Filling,Restorative,160.3,1275
+CA,D2330,Anterior Composite Filling,Restorative,27.91,3652
+CA,D7140,Simple Extraction,Surgical,172.38,3573
+CA,D7140,Simple Extraction,Surgical,117.79,3113
+CA,D7140,Simple Extraction,Surgical,145.74,2000
+CA,D7140,Simple Extraction,Surgical,243.0,661
+CA,D7210,Surgical Extraction,Surgical,225.81,3842
+CA,D7210,Surgical Extraction,Surgical,40.35,4298
+CA,D7210,Surgical Extraction,Surgical,139.79,837
+CA,D7210,Surgical Extraction,Surgical,144.13,4493
+CA,D9110,Palliative Emergency Treatment,Emergency,84.61,879
+CA,D9110,Palliative Emergency Treatment,Emergency,83.48,2562
+CA,D9110,Palliative Emergency Treatment,Emergency,58.01,3068
+TX,D0120,Periodic Oral Evaluation,Preventive,65.7,1995
+TX,D0120,Periodic Oral Evaluation,Preventive,23.24,891
+TX,D0120,Periodic Oral Evaluation,Preventive,187.67,4974
+TX,D1110,Adult Prophylaxis (Cleaning),Preventive,233.05,3599
+TX,D1110,Adult Prophylaxis (Cleaning),Preventive,218.51,3604
+TX,D1110,Adult Prophylaxis (Cleaning),Preventive,34.62,2954
+TX,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,94.79,3231
+TX,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,166.64,2070
+TX,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,128.61,3190
+TX,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,194.98,1002
+TX,D0210,Complete X-rays (FMX),Diagnostic,78.9,4988
+TX,D0210,Complete X-rays (FMX),Diagnostic,183.45,1984
+TX,D0210,Complete X-rays (FMX),Diagnostic,66.4,1363
+TX,D0210,Complete X-rays (FMX),Diagnostic,166.37,1063
+TX,D0210,Complete X-rays (FMX),Diagnostic,149.55,2257
+TX,D2330,Anterior Composite Filling,Restorative,77.34,2178
+TX,D2330,Anterior Composite Filling,Restorative,193.78,1559
+TX,D2330,Anterior Composite Filling,Restorative,236.86,2222
+TX,D7140,Simple Extraction,Surgical,57.08,3125
+TX,D7140,Simple Extraction,Surgical,163.6,2097
+TX,D7140,Simple Extraction,Surgical,165.68,3193
+TX,D7140,Simple Extraction,Surgical,125.0,4127
+TX,D7140,Simple Extraction,Surgical,115.8,2481
+TX,D7210,Surgical Extraction,Surgical,94.6,2538
+TX,D7210,Surgical Extraction,Surgical,226.1,3802
+TX,D7210,Surgical Extraction,Surgical,228.57,1806
+TX,D7210,Surgical Extraction,Surgical,118.23,3175
+TX,D7210,Surgical Extraction,Surgical,101.09,1782
+TX,D9110,Palliative Emergency Treatment,Emergency,57.87,4913
+TX,D9110,Palliative Emergency Treatment,Emergency,71.08,1163
+TX,D9110,Palliative Emergency Treatment,Emergency,236.87,3945
+TX,D9110,Palliative Emergency Treatment,Emergency,70.32,1995
+TX,D9110,Palliative Emergency Treatment,Emergency,181.69,2353
+FL,D0120,Periodic Oral Evaluation,Preventive,78.4,1791
+FL,D0120,Periodic Oral Evaluation,Preventive,77.91,3957
+FL,D0120,Periodic Oral Evaluation,Preventive,183.82,2136
+FL,D1110,Adult Prophylaxis (Cleaning),Preventive,249.48,1198
+FL,D1110,Adult Prophylaxis (Cleaning),Preventive,160.2,1354
+FL,D1110,Adult Prophylaxis (Cleaning),Preventive,84.09,3974
+FL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,53.33,2207
+FL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,122.99,2233
+FL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,75.67,4010
+FL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,195.17,4718
+FL,D0210,Complete X-rays (FMX),Diagnostic,187.49,2827
+FL,D0210,Complete X-rays (FMX),Diagnostic,128.17,697
+FL,D0210,Complete X-rays (FMX),Diagnostic,111.73,4082
+FL,D2330,Anterior Composite Filling,Restorative,54.67,4782
+FL,D2330,Anterior Composite Filling,Restorative,62.9,2294
+FL,D2330,Anterior Composite Filling,Restorative,155.91,1869
+FL,D7140,Simple Extraction,Surgical,206.19,3719
+FL,D7140,Simple Extraction,Surgical,168.39,2343
+FL,D7140,Simple Extraction,Surgical,236.32,2459
+FL,D7140,Simple Extraction,Surgical,108.95,2885
+FL,D7140,Simple Extraction,Surgical,212.67,2302
+FL,D7210,Surgical Extraction,Surgical,46.1,4561
+FL,D7210,Surgical Extraction,Surgical,180.03,762
+FL,D7210,Surgical Extraction,Surgical,171.8,1123
+FL,D9110,Palliative Emergency Treatment,Emergency,138.83,2549
+FL,D9110,Palliative Emergency Treatment,Emergency,249.14,4223
+FL,D9110,Palliative Emergency Treatment,Emergency,148.41,4590
+NY,D0120,Periodic Oral Evaluation,Preventive,97.98,3670
+NY,D0120,Periodic Oral Evaluation,Preventive,181.08,2755
+NY,D0120,Periodic Oral Evaluation,Preventive,226.34,3691
+NY,D0120,Periodic Oral Evaluation,Preventive,224.19,2148
+NY,D0120,Periodic Oral Evaluation,Preventive,57.17,1945
+NY,D1110,Adult Prophylaxis (Cleaning),Preventive,22.12,3057
+NY,D1110,Adult Prophylaxis (Cleaning),Preventive,236.23,2700
+NY,D1110,Adult Prophylaxis (Cleaning),Preventive,21.16,4933
+NY,D1110,Adult Prophylaxis (Cleaning),Preventive,131.69,3734
+NY,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,71.58,660
+NY,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,24.16,4993
+NY,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,94.84,4487
+NY,D0210,Complete X-rays (FMX),Diagnostic,185.82,3604
+NY,D0210,Complete X-rays (FMX),Diagnostic,144.78,1454
+NY,D0210,Complete X-rays (FMX),Diagnostic,104.57,3946
+NY,D0210,Complete X-rays (FMX),Diagnostic,77.61,2193
+NY,D0210,Complete X-rays (FMX),Diagnostic,243.79,3936
+NY,D2330,Anterior Composite Filling,Restorative,225.17,3854
+NY,D2330,Anterior Composite Filling,Restorative,119.91,1459
+NY,D2330,Anterior Composite Filling,Restorative,218.76,3567
+NY,D2330,Anterior Composite Filling,Restorative,186.16,3620
+NY,D2330,Anterior Composite Filling,Restorative,30.03,1743
+NY,D7140,Simple Extraction,Surgical,239.4,3944
+NY,D7140,Simple Extraction,Surgical,223.2,1560
+NY,D7140,Simple Extraction,Surgical,233.51,801
+NY,D7140,Simple Extraction,Surgical,242.33,3670
+NY,D7210,Surgical Extraction,Surgical,37.33,2800
+NY,D7210,Surgical Extraction,Surgical,108.57,1684
+NY,D7210,Surgical Extraction,Surgical,92.89,627
+NY,D9110,Palliative Emergency Treatment,Emergency,148.06,1069
+NY,D9110,Palliative Emergency Treatment,Emergency,233.9,3233
+NY,D9110,Palliative Emergency Treatment,Emergency,42.35,4514
+NY,D9110,Palliative Emergency Treatment,Emergency,247.71,3509
+NJ,D0120,Periodic Oral Evaluation,Preventive,139.22,1909
+NJ,D0120,Periodic Oral Evaluation,Preventive,94.19,3675
+NJ,D0120,Periodic Oral Evaluation,Preventive,180.31,4841
+NJ,D0120,Periodic Oral Evaluation,Preventive,102.68,3306
+NJ,D0120,Periodic Oral Evaluation,Preventive,116.55,2341
+NJ,D1110,Adult Prophylaxis (Cleaning),Preventive,160.65,3450
+NJ,D1110,Adult Prophylaxis (Cleaning),Preventive,135.35,4615
+NJ,D1110,Adult Prophylaxis (Cleaning),Preventive,169.49,4995
+NJ,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,224.7,1666
+NJ,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,106.38,3274
+NJ,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,174.57,4646
+NJ,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,127.09,1074
+NJ,D0210,Complete X-rays (FMX),Diagnostic,85.9,2215
+NJ,D0210,Complete X-rays (FMX),Diagnostic,28.93,4354
+NJ,D0210,Complete X-rays (FMX),Diagnostic,102.84,2991
+NJ,D0210,Complete X-rays (FMX),Diagnostic,95.13,3624
+NJ,D2330,Anterior Composite Filling,Restorative,125.17,1376
+NJ,D2330,Anterior Composite Filling,Restorative,64.71,4642
+NJ,D2330,Anterior Composite Filling,Restorative,180.89,4864
+NJ,D7140,Simple Extraction,Surgical,138.75,2193
+NJ,D7140,Simple Extraction,Surgical,29.45,619
+NJ,D7140,Simple Extraction,Surgical,82.29,4175
+NJ,D7140,Simple Extraction,Surgical,191.13,1869
+NJ,D7210,Surgical Extraction,Surgical,62.4,3338
+NJ,D7210,Surgical Extraction,Surgical,118.51,2431
+NJ,D7210,Surgical Extraction,Surgical,114.06,1581
+NJ,D9110,Palliative Emergency Treatment,Emergency,55.98,3349
+NJ,D9110,Palliative Emergency Treatment,Emergency,75.15,1059
+NJ,D9110,Palliative Emergency Treatment,Emergency,62.06,3843
+NJ,D9110,Palliative Emergency Treatment,Emergency,138.84,1970
+PA,D0120,Periodic Oral Evaluation,Preventive,160.7,2794
+PA,D0120,Periodic Oral Evaluation,Preventive,30.97,4749
+PA,D0120,Periodic Oral Evaluation,Preventive,101.87,3244
+PA,D1110,Adult Prophylaxis (Cleaning),Preventive,46.7,3618
+PA,D1110,Adult Prophylaxis (Cleaning),Preventive,29.37,3559
+PA,D1110,Adult Prophylaxis (Cleaning),Preventive,60.33,3459
+PA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,195.57,2135
+PA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,59.84,2257
+PA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,169.45,3349
+PA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,80.01,4230
+PA,D0210,Complete X-rays (FMX),Diagnostic,135.24,1515
+PA,D0210,Complete X-rays (FMX),Diagnostic,171.5,3587
+PA,D0210,Complete X-rays (FMX),Diagnostic,36.23,1395
+PA,D0210,Complete X-rays (FMX),Diagnostic,166.37,1351
+PA,D2330,Anterior Composite Filling,Restorative,151.87,2068
+PA,D2330,Anterior Composite Filling,Restorative,125.4,3238
+PA,D2330,Anterior Composite Filling,Restorative,208.75,4413
+PA,D2330,Anterior Composite Filling,Restorative,67.54,4880
+PA,D7140,Simple Extraction,Surgical,69.36,3873
+PA,D7140,Simple Extraction,Surgical,24.19,3046
+PA,D7140,Simple Extraction,Surgical,162.2,3274
+PA,D7210,Surgical Extraction,Surgical,170.82,2125
+PA,D7210,Surgical Extraction,Surgical,98.34,614
+PA,D7210,Surgical Extraction,Surgical,84.83,3767
+PA,D9110,Palliative Emergency Treatment,Emergency,180.25,2016
+PA,D9110,Palliative Emergency Treatment,Emergency,235.43,1228
+PA,D9110,Palliative Emergency Treatment,Emergency,204.8,3308
+PA,D9110,Palliative Emergency Treatment,Emergency,146.03,3004
+GA,D0120,Periodic Oral Evaluation,Preventive,247.82,4579
+GA,D0120,Periodic Oral Evaluation,Preventive,49.37,2643
+GA,D0120,Periodic Oral Evaluation,Preventive,98.38,4632
+GA,D0120,Periodic Oral Evaluation,Preventive,74.88,4266
+GA,D0120,Periodic Oral Evaluation,Preventive,192.7,3414
+GA,D1110,Adult Prophylaxis (Cleaning),Preventive,106.88,4452
+GA,D1110,Adult Prophylaxis (Cleaning),Preventive,136.21,1228
+GA,D1110,Adult Prophylaxis (Cleaning),Preventive,93.61,1198
+GA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,109.52,895
+GA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,240.46,4671
+GA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,101.63,2319
+GA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,238.51,4077
+GA,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,165.32,3640
+GA,D0210,Complete X-rays (FMX),Diagnostic,158.56,3438
+GA,D0210,Complete X-rays (FMX),Diagnostic,68.93,4136
+GA,D0210,Complete X-rays (FMX),Diagnostic,202.06,3116
+GA,D0210,Complete X-rays (FMX),Diagnostic,46.1,3482
+GA,D0210,Complete X-rays (FMX),Diagnostic,249.06,1656
+GA,D2330,Anterior Composite Filling,Restorative,224.17,4830
+GA,D2330,Anterior Composite Filling,Restorative,182.34,1453
+GA,D2330,Anterior Composite Filling,Restorative,162.19,3824
+GA,D2330,Anterior Composite Filling,Restorative,212.85,1691
+GA,D2330,Anterior Composite Filling,Restorative,36.74,3493
+GA,D7140,Simple Extraction,Surgical,182.44,2040
+GA,D7140,Simple Extraction,Surgical,138.07,2886
+GA,D7140,Simple Extraction,Surgical,153.7,1888
+GA,D7140,Simple Extraction,Surgical,105.25,999
+GA,D7140,Simple Extraction,Surgical,74.44,4812
+GA,D7210,Surgical Extraction,Surgical,193.28,3641
+GA,D7210,Surgical Extraction,Surgical,182.88,2310
+GA,D7210,Surgical Extraction,Surgical,198.74,2714
+GA,D9110,Palliative Emergency Treatment,Emergency,77.21,4102
+GA,D9110,Palliative Emergency Treatment,Emergency,45.58,4022
+GA,D9110,Palliative Emergency Treatment,Emergency,78.35,1743
+GA,D9110,Palliative Emergency Treatment,Emergency,151.44,955
+GA,D9110,Palliative Emergency Treatment,Emergency,47.03,1884
+IL,D0120,Periodic Oral Evaluation,Preventive,191.59,2496
+IL,D0120,Periodic Oral Evaluation,Preventive,74.63,1004
+IL,D0120,Periodic Oral Evaluation,Preventive,106.22,3940
+IL,D0120,Periodic Oral Evaluation,Preventive,39.07,1428
+IL,D0120,Periodic Oral Evaluation,Preventive,71.43,633
+IL,D1110,Adult Prophylaxis (Cleaning),Preventive,22.8,2352
+IL,D1110,Adult Prophylaxis (Cleaning),Preventive,94.22,4675
+IL,D1110,Adult Prophylaxis (Cleaning),Preventive,141.37,4798
+IL,D1110,Adult Prophylaxis (Cleaning),Preventive,231.4,1750
+IL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,242.94,1756
+IL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,69.87,3986
+IL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,249.04,4137
+IL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,154.39,3203
+IL,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,189.53,1853
+IL,D0210,Complete X-rays (FMX),Diagnostic,124.8,1167
+IL,D0210,Complete X-rays (FMX),Diagnostic,97.2,1645
+IL,D0210,Complete X-rays (FMX),Diagnostic,63.27,4685
+IL,D0210,Complete X-rays (FMX),Diagnostic,109.3,1039
+IL,D2330,Anterior Composite Filling,Restorative,244.11,4275
+IL,D2330,Anterior Composite Filling,Restorative,124.25,3008
+IL,D2330,Anterior Composite Filling,Restorative,177.49,1424
+IL,D7140,Simple Extraction,Surgical,229.51,3824
+IL,D7140,Simple Extraction,Surgical,236.32,755
+IL,D7140,Simple Extraction,Surgical,153.67,2444
+IL,D7210,Surgical Extraction,Surgical,39.03,1297
+IL,D7210,Surgical Extraction,Surgical,219.19,1515
+IL,D7210,Surgical Extraction,Surgical,106.59,3636
+IL,D7210,Surgical Extraction,Surgical,130.49,4658
+IL,D9110,Palliative Emergency Treatment,Emergency,243.08,4500
+IL,D9110,Palliative Emergency Treatment,Emergency,127.8,1010
+IL,D9110,Palliative Emergency Treatment,Emergency,82.88,2500
+OH,D0120,Periodic Oral Evaluation,Preventive,249.94,1960
+OH,D0120,Periodic Oral Evaluation,Preventive,154.58,4136
+OH,D0120,Periodic Oral Evaluation,Preventive,237.3,4678
+OH,D1110,Adult Prophylaxis (Cleaning),Preventive,75.45,2548
+OH,D1110,Adult Prophylaxis (Cleaning),Preventive,239.43,1216
+OH,D1110,Adult Prophylaxis (Cleaning),Preventive,67.66,2323
+OH,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,102.38,2074
+OH,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,174.46,1173
+OH,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,129.53,1270
+OH,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,139.64,4863
+OH,D0210,Complete X-rays (FMX),Diagnostic,146.94,888
+OH,D0210,Complete X-rays (FMX),Diagnostic,40.33,2348
+OH,D0210,Complete X-rays (FMX),Diagnostic,155.69,3314
+OH,D2330,Anterior Composite Filling,Restorative,116.72,1752
+OH,D2330,Anterior Composite Filling,Restorative,162.67,2622
+OH,D2330,Anterior Composite Filling,Restorative,68.98,1829
+OH,D2330,Anterior Composite Filling,Restorative,155.68,1858
+OH,D2330,Anterior Composite Filling,Restorative,120.62,2517
+OH,D7140,Simple Extraction,Surgical,138.22,1858
+OH,D7140,Simple Extraction,Surgical,111.2,3677
+OH,D7140,Simple Extraction,Surgical,218.34,2680
+OH,D7210,Surgical Extraction,Surgical,53.83,3972
+OH,D7210,Surgical Extraction,Surgical,133.19,4079
+OH,D7210,Surgical Extraction,Surgical,35.23,4664
+OH,D9110,Palliative Emergency Treatment,Emergency,162.79,4800
+OH,D9110,Palliative Emergency Treatment,Emergency,68.1,4638
+OH,D9110,Palliative Emergency Treatment,Emergency,75.23,2406
+OH,D9110,Palliative Emergency Treatment,Emergency,143.57,3945
+NC,D0120,Periodic Oral Evaluation,Preventive,226.26,3766
+NC,D0120,Periodic Oral Evaluation,Preventive,138.5,1171
+NC,D0120,Periodic Oral Evaluation,Preventive,59.63,3622
+NC,D1110,Adult Prophylaxis (Cleaning),Preventive,209.01,4400
+NC,D1110,Adult Prophylaxis (Cleaning),Preventive,27.32,1023
+NC,D1110,Adult Prophylaxis (Cleaning),Preventive,67.46,3093
+NC,D1110,Adult Prophylaxis (Cleaning),Preventive,49.61,2253
+NC,D1110,Adult Prophylaxis (Cleaning),Preventive,178.79,2796
+NC,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,164.42,2786
+NC,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,137.68,4702
+NC,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,231.8,4144
+NC,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,20.6,2555
+NC,D0140,Limited Oral Evaluation (Problem Focused),Diagnostic,192.1,1776
+NC,D0210,Complete X-rays (FMX),Diagnostic,143.42,555
+NC,D0210,Complete X-rays (FMX),Diagnostic,131.44,4623
+NC,D0210,Complete X-rays (FMX),Diagnostic,104.85,3787
+NC,D0210,Complete X-rays (FMX),Diagnostic,185.72,2146
+NC,D0210,Complete X-rays (FMX),Diagnostic,214.22,2031
+NC,D2330,Anterior Composite Filling,Restorative,219.46,2406
+NC,D2330,Anterior Composite Filling,Restorative,75.77,2575
+NC,D2330,Anterior Composite Filling,Restorative,24.62,2476
+NC,D7140,Simple Extraction,Surgical,68.63,625
+NC,D7140,Simple Extraction,Surgical,47.55,4096
+NC,D7140,Simple Extraction,Surgical,156.53,2103
+NC,D7210,Surgical Extraction,Surgical,201.51,2656
+NC,D7210,Surgical Extraction,Surgical,130.3,4706
+NC,D7210,Surgical Extraction,Surgical,189.47,4507
+NC,D7210,Surgical Extraction,Surgical,119.28,2972
+NC,D9110,Palliative Emergency Treatment,Emergency,103.51,2261
+NC,D9110,Palliative Emergency Treatment,Emergency,76.2,2862
+NC,D9110,Palliative Emergency Treatment,Emergency,246.9,4312
